@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Here are somethings about me:
 
 - 🔭  I’m currently working on Laravel...
 - 🌱  I’m currently learning React...
