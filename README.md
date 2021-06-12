@@ -1,35 +1,20 @@
+<h2 align='center'><samp><strong>Hi there 👋, I am Amit Chandrakar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></strong></samp></h2>
 
-<!--
+<p align='center'>Full Stack Developer | Full Stack Laravel Developer | React Developer | Web Developer | Javascript Developer</p>
 
-## Complete list of github markdown emoji markup
-https://gist.github.com/rxaviers/7360908
+<h1 align="center"> "I want to make things that makes a difference."</h1>
 
-## technologies Icons 
-https://simpleicons.org/
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=amitchandrakar&&show_icons=true&title_color=ffffff&icon_color=blue&text_color=daf7dc&bg_color=151515">
 
--->
 
-![](https://komarev.com/ghpvc/?username=amitchandrakar&color=blueviolet)
-
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/amitchandrakar?label=Follow%20Me&style=social)](https://github.com/amitchandrakar)
-<br>
-<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
-[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
-<br>
-[![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AhmadSawalqeh)
-[![Codesandbox](https://img.shields.io/badge/Codesandbox-Ahmad%20Sawalqeh-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Ahmad-Sawalqeh)
-[![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
-[![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
-<!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
-
-<h2 align='center'><samp><strong>Hi there 👋, I am Ahmad Sawalqeh</strong></samp></h2>
-<h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
-
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
+<p align='left' text-align='justify'> I’ve always sought out opportunities and challenges that are meaningful to me. Although my professional path has taken many twists and turns — from Database Administrator to Senior Software Developer but I've never stopped engaging my passion. My specialties include quickly learning new skills and programming concepts, problem solving responsive design principles and Model View Controller (MVC) methods of organizing code.
+</p>
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+
+
+![](https://komarev.com/ghpvc/?username=amitchandrakar&color=blue)
+
 
 💻 **Languages and Tools:** 🛠️<br>
 
@@ -87,12 +72,16 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 
 
-<!-- ✅  **GitHub Extra Pins**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
-
-</br>
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=amitchandrakar" />
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/amitchandrakar?label=Follow%20Me&style=social)](https://github.com/amitchandrakar)
+<br>
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Amit%20Chandrakar-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/amit-chandrakar-777258124/)
+[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
+<br>
+[![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AhmadSawalqeh)
+[![Codesandbox](https://img.shields.io/badge/Codesandbox-Ahmad%20Sawalqeh-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Ahmad-Sawalqeh)
+[![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
+[![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
+[![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh)
 
 
