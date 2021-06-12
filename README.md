@@ -51,7 +51,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 <h4> Knowledge of 🧐 </h4>
 
-`Responsive web design` `Web Hosting` `Payment Gateways` `SMS Gateways` `Google Maps` `SEO` `Third Party API's` `AXIOS` `Object-Oriented Programming`
+`Coding Standard` `Responsive Web Design` `Web Hosting` `Payment Gateways` `SMS Gateways` `Google Maps` `SEO` `Third Party API's` `AXIOS` `Object-Oriented Programming`
 
 
 <h4> Deployment platforms 🌍 </h4>
