@@ -51,14 +51,13 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 <h4> Knowledge of 🧐 </h4>
 
-`Coding Standard` `Responsive Web Design` `Web Hosting` `Payment Gateways` `SMS Gateways` `Google Maps` `SEO` `Third Party API's` `AXIOS` `Object-Oriented Programming`
+`Coding Standard` `Responsive Web Design` `Web Hosting` `SEO` `Payment Gateways` `SMS Gateways` `Google Maps` `Third Party API's` `Charts & Graphs` `AXIOS` `Object-Oriented Programming`
 
 
 <h4> Deployment platforms 🌍 </h4>
 
-<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=for-the-badge&logo=github-pages)
 ![Cpanel](https://img.shields.io/badge/-Cpanel-000000?style=for-the-badge&logo=Cpanel&logoColor=ffffff&labelColor=0078D6)
-
+![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=for-the-badge&logo=github-pages)
 
 <h4> Working on 📚 </h4>
 
@@ -71,9 +70,10 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=for-the-badge&logo=react&labelColor=000000)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-000000?style=for-the-badge&logo=Amazon%20AWS&logoColor=#E62A00&labelColor=ffffff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=Vue.js&logoColor=#E62A00&labelColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=#E62A00&labelColor=ffffff)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=#E62A00&labelColor=ffffff)
-
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=Tailwind%20CSS&logoColor=#E62A00&labelColor=ffffff)
 
 Feel free to contact me. I am always here ...
 <br>
