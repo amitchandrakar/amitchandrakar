@@ -1,22 +1,3 @@
-### Hi there 👋, my name is Amit Chandrakar
-#### I am Full Stack Developer
-Mission-driven Full Stack Developer with a passion for making new ideas into code.
-
-I’ve always sought out opportunities and challenges that are meaningful to me. Although my professional path has taken many twists and turns — from DBA to Full Stack Developer but I have never stopped engaging my passion.
-
-That is why I’m excited to make a big impact at a high growth company.
-
-Skills: LARAVEL / REACT / JS / MYSQL / HTML / CSS
-
-- 🔭 I’m currently working on Jarvis 
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on Anything 
-- 🤔 I’m looking for help with CI/CD 
-- 💬 Ask me about Anything 
-- 📫 How to reach me: amitchandrakar028@gmail.com 
-
-
-
 
 <!--
 
@@ -27,7 +8,8 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/Ahmad-Sawalqeh)
+
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/amitchandrakar?label=Follow%20Me&style=social)](https://github.com/amitchandrakar)
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
