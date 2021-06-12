@@ -21,7 +21,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![GitHub issues](https://img.shields.io/github/issues/amitchandrakar/first-git-program?color=blue)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/amitchandrakar/first-git-program/master?color=blue)
 
-💻 **Languages and Tools:** 🛠️<br>
+💻 &nbsp; **Languages and Tools:** 🛠️<br>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
@@ -48,28 +48,28 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
 
-🧐 **Knowledge of:**<br>
+🧐 &nbsp; **Knowledge of:**<br>
 
 `Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
 
 
-🌍 **Deployment platforms:**<br>
+🌍 &nbsp; **Deployment platforms:**<br>
 
 <img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
 
 
-🚩 **Highlights:** <br>
+🚩 &nbsp; **Highlights:** <br>
 &nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
 
 
-📚 **Working on:** <br>
+📚 &nbsp;  **Working on:** <br>
 
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
 ![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
 
 
-🤓 **Interested:** <br>
+🤓 &nbsp; **Interested:** <br>
 
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
@@ -77,13 +77,10 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 
 
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/amitchandrakar?label=Follow%20Me&style=social)](https://github.com/amitchandrakar)
+📝 &nbsp; ***Feel free to contact me. I am always here ...***
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Amit%20Chandrakar-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/amit-chandrakar-777258124/)
-[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
-<br>
-[![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AhmadSawalqeh)
-[![Codesandbox](https://img.shields.io/badge/Codesandbox-Ahmad%20Sawalqeh-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Ahmad-Sawalqeh)
-[![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
-[![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
+[![Mail](https://img.shields.io/badge/Hotmail-amitchandrakar@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:amitchandrakar@gmail.com)
+[![Codepen](https://img.shields.io/badge/Codepen-Amit%20Chandrakar-gray?logo=codepen&logoColor=blue&labelColor=black)](https://codepen.io/amit-codepen)
+[![Codesandbox](https://img.shields.io/badge/Codesandbox-Amit%20Chandrakar-gray?logo=codesandbox&logoColor=blue&labelColor=black)](https://codesandbox.io/u/amitchandrakar)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Amit%20Chandrakar-brightgreen?logo=HackerRank&logoColor=blue&labelColor=black)](https://www.hackerrank.com/amitchandrakar01)
