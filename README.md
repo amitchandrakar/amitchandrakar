@@ -7,6 +7,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=amitchandrakar&&show_icons=true&title_color=ffffff&icon_color=blue&text_color=daf7dc&bg_color=151515">
 
 
+
 <p align='left' text-align='justify'> I’ve always sought out opportunities and challenges that are meaningful to me. Although my professional path has taken many twists and turns — from Database Administrator to Senior Software Developer but I've never stopped engaging my passion. My specialties include quickly learning new skills and programming concepts, problem solving responsive design principles and Model View Controller (MVC) methods of organizing code.
 </p>
 
@@ -14,7 +15,11 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 
 ![](https://komarev.com/ghpvc/?username=amitchandrakar&color=blue)
-
+![Lines of code](https://img.shields.io/tokei/lines/github/amitchandrakar/first-git-program)
+![GitHub User's stars](https://img.shields.io/github/stars/amitchandrakar?logo=appveyor)
+![GitHub forks](https://img.shields.io/github/forks/amitchandrakar/first-git-program)
+![GitHub issues](https://img.shields.io/github/issues/amitchandrakar/first-git-program?color=blue)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/amitchandrakar/first-git-program/master?color=blue)
 
 💻 **Languages and Tools:** 🛠️<br>
 
@@ -82,6 +87,3 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 [![Codesandbox](https://img.shields.io/badge/Codesandbox-Ahmad%20Sawalqeh-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Ahmad-Sawalqeh)
 [![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
 [![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
-[![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh)
-
-
