@@ -24,6 +24,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000000?style=for-the-badge&logo=CodeIgniter&logoColor=#E62A00&labelColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP&logoColor=#E62A00&labelColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&labelColor=ffffff)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=for-the-badge&logo=wordpress&labelColor=21759B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
@@ -50,7 +51,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 <h4> Knowledge of 🧐 </h4>
 
-`Responsive web design` `Web Hosting` `Payment Gateways` `SMS Gateways` `Google Maps` `AXIOS` `Object-Oriented Programming`
+`Responsive web design` `Web Hosting` `Payment Gateways` `SMS Gateways` `Google Maps` `SEO` `Third Party API's` `AXIOS` `Object-Oriented Programming`
 
 
 <h4> Deployment platforms 🌍 </h4>
@@ -69,6 +70,9 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <h4> Interested 🤓 </h4>
 
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=for-the-badge&logo=react&labelColor=000000)
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-000000?style=for-the-badge&logo=Amazon%20AWS&logoColor=#E62A00&labelColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=#E62A00&labelColor=ffffff)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=#E62A00&labelColor=ffffff)
 
 
 Feel free to contact me. I am always here ...
