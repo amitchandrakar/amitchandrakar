@@ -33,6 +33,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=for-the-badge&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-000000?style=for-the-badge&logo=GitLab&logoColor=#E62A00&labelColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
@@ -78,7 +79,10 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 Feel free to contact me. I am always here ...
 <br>
 <br>
-[![Mail](https://img.shields.io/badge/Hotmail-amitchandrakar@gmail.com-gray?style=for-the-badge&logo=Gmail&logoColor=blue&labelColor=black)](mailto:amitchandrakar@gmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-amitchandrakar@gmail.com-gray?style=for-the-badge&logo=Gmail&logoColor=blue&labelColor=black)](mailto:amitchandrakar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit%20Chandrakar-gray?style=for-the-badge&logo=LinkedIn&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/amit-chandrakar-777258124/)
+[![Facebook](https://img.shields.io/badge/Facebook-Amit%20Chandrakar-gray?style=for-the-badge&logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/profile.php?id=100009761348624)
+[![Instagram](https://img.shields.io/badge/Instagram-Amit%20Chandrakar-gray?style=for-the-badge&logo=Instagram&logoColor=blue&labelColor=black)](https://www.instagram.com/__amitchandrakar__/)
 [![Codepen](https://img.shields.io/badge/Codepen-Amit%20Chandrakar-gray?style=for-the-badge&logo=codepen&logoColor=blue&labelColor=black)](https://codepen.io/amit-codepen)
 [![Codesandbox](https://img.shields.io/badge/Codesandbox-Amit%20Chandrakar-gray?style=for-the-badge&logo=codesandbox&logoColor=blue&labelColor=black)](https://codesandbox.io/u/amitchandrakar)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Amit%20Chandrakar-gray?style=for-the-badge&logo=HackerRank&logoColor=blue&labelColor=black)](https://www.hackerrank.com/amitchandrakar01)
