@@ -1,6 +1,6 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Amit Chandrakar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></strong></samp></h2>
 
-<p align='center'>Full Stack Developer | Full Stack Laravel Developer | React Developer | Web Developer | Javascript Developer</p>
+<p align='center'>Full Stack Developer | Full Stack Laravel Developer | React Developer | Javascript Developer</p>
 
 <h1 align="center"> "I want to make things that makes a difference."</h1>
 
